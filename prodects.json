@@ -1,0 +1,404 @@
+[
+  
+  {
+    "id": 1,
+    "name": "EGY Blueberry Cheesecake",
+    "image": "./img/EGY_Blueberry_Cheesecake_01.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 20,
+    "type": "Blueberry",
+    "size": "Large",
+    "description": "Rich and creamy blueberry cheesecake with a buttery crust, perfect for dessert lovers."
+  },
+  {
+    "id": 2,
+    "name": "Lemon Loaf Cake",
+    "image": "img/Lemon_Loaf_Cake_01.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 30,
+    "type": "Lemon Loaf",
+    "size": "Medium",
+    "description": "Zesty lemon loaf cake with a moist texture and refreshing citrus flavor."
+  },
+  {
+    "id": 3,
+    "name": "Marble Loaf Cake",
+    "image": "img/Marble_Loaf_Cake_01.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 20,
+    "type": "Chocolate",
+    "size": "Medium",
+    "description": "A classic marble cake blending rich chocolate and vanilla in every bite."
+  },
+  {
+    "id": 4,
+    "name": "Caramel Peanut Double Deck",
+    "image": "img/Caramel_Peanut_Double_Deck.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 65,
+    "type": "Caramel",
+    "size": "Small",
+    "description": "A decadent double-layer dessert packed with caramel and crunchy peanuts."
+  },
+  {
+    "id": 5,
+    "name": "Carrot Walnut Cake",
+    "image": "img/Carrot_Walnut_Cake.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 80,
+    "type": "Carrot Walnut",
+    "size": "Large",
+    "description": "Classic carrot cake with crunchy walnuts and a hint of cinnamon spice."
+  },
+  {
+    "id": 6,
+    "name": "EGY Chocolate Cake",
+    "image": "img/EGY_Chocolate_Cake_01.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 34,
+    "type": "Chocolate",
+    "size": "Large",
+    "description": "Moist and rich chocolate cake topped with smooth, velvety chocolate glaze."
+  },
+  {
+    "id": 7,
+    "name": "EGY Honey Cake",
+    "image": "img/EGY_Honey_Cake_01.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 36,
+    "type": "Honey",
+    "size": "Large",
+    "description": "A soft and fluffy cake infused with natural honey sweetness."
+  },
+  {
+    "id": 8,
+    "name": "Double Chocolate Muffin",
+    "image": "img/Double_Chocolate_Muffin.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 44,
+    "type": "Chocolate",
+    "size": "Small",
+    "description": "Intensely chocolatey muffin loaded with rich chocolate chips."
+  },
+  {
+    "id": 9,
+    "name": "Blueberry Muffin",
+    "image": "img/Blueberry_Muffin.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 90,
+    "type": "Blueberry",
+    "size": "Small",
+    "description": "Soft muffin bursting with juicy blueberries in every bite."
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Donut",
+    "image": "img/Chocolate_Donut.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 20,
+    "type": "Chocolate",
+    "size": "Large",
+    "description": "Fluffy donut covered in a luscious chocolate glaze."
+  },
+    {
+    "id": 11,
+    "name": "Glazed Donut",
+    "image": "img/Glazed_Donut.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 91,
+    "type": "Cheese",
+    "size": "Medium",
+    "description": "Soft and fluffy donut coated with a sweet and shiny glaze."
+  },
+  {
+    "id": 12,
+    "name": "Matcha Latte",
+    "image": "img/Matcha_Latte.jpg-removebg-preview.png",
+    "category": "Coffee",
+    "price": 50,
+    "type": "Matcha",
+    "size": "Large",
+    "description": "Smooth and creamy latte made with premium matcha green tea."
+  },
+  {
+    "id": 13,
+    "name": "Esspreso",
+    "image": "img/Esspreso.jpg-removebg-preview.png",
+    "category": "Coffee",
+    "price": 99,
+    "type": "Espresso",
+    "size": "Large",
+    "description": "Bold and rich espresso shot with a strong coffee flavor."
+  },
+  {
+    "id": 15,
+    "name": "Refreshers",
+    "image": "img/Refreshers.jpg-removebg-preview.png",
+    "category": "ice Coffee",
+    "price": 30,
+    "type": "Matcha",
+    "size": "Medium",
+    "description": "Cool and energizing iced matcha drink for a refreshing break."
+  },
+  {
+    "id": 16,
+    "name": "Tea",
+    "image": "img/Teas.jpg-removebg-preview.png",
+    "category": "Coffee",
+    "price": 88,
+    "type": "Tea",
+    "size": "Small",
+    "description": "Warm and calming traditional tea served in a small size."
+  },
+  {
+    "id": 17,
+    "name": "Hot Chocolates",
+    "image": "img/HotChocolates.jpg-removebg-preview.png",
+    "category": "Coffee",
+    "price": 98,
+    "type": "Chocolates",
+    "size": "Large",
+    "description": "Creamy and rich hot chocolate perfect for cozy moments."
+  },
+  {
+    "id": 18,
+    "name": "Mixed Berries Drink",
+    "image": "img/Mixed_Berries_Drink-removebg-preview.png",
+    "category": "ice Coffee",
+    "price": 30,
+    "type": "Berry",
+    "size": "Large",
+    "description": "Fruity iced drink made with a blend of fresh berries."
+  },
+  {
+    "id": 19,
+    "name": "Ice Blueberry",
+    "image": "img/ice_blueberry-removebg-preview.png",
+    "category": "Ice Coffee",
+    "price": 30,
+    "type": "Berry",
+    "size": "Medium",
+    "description": "Chilled blueberry drink with a refreshing berry twist."
+  },
+  {
+    "id": 20,
+    "name": "Vietnamese Coffee Boba",
+    "image": "img/Vietnamese_Coffee_Boba.png",
+    "category": "ice Coffee",
+    "price": 44,
+    "type": "Berry",
+    "size": "Medium",
+    "description": "Iced Vietnamese coffee with chewy boba pearls for extra fun."
+  },
+  {
+    "id": 21,
+    "name": "Blueberry",
+    "image": "img/strubarry-removebg-preview.png",
+    "category": "ice Coffee",
+    "price": 15,
+    "type": "Berry",
+    "size": "Small",
+    "description": "Small iced blueberry drink packed with natural flavor."
+  },
+  {
+    "id": 22,
+    "name": "Lemon juice",
+    "image": "img/Lemon_juice-removebg-preview.png",
+    "category": "ice Coffee",
+    "price": 35,
+    "type": "Plain",
+    "size": "Medium",
+    "description": "Refreshing and tangy lemon juice served chilled."
+  },
+  {
+    "id": 23,
+    "name": "Hot Double Shot",
+    "image": "img/Hot_Double_Shot.jpg-removebg-preview.png",
+    "category": "Coffee",
+    "price": 33,
+    "type": "Chocolate",
+    "size": "Medium",
+    "description": "Strong double espresso shot with a hint of chocolate."
+  },
+  {
+    "id": 24,
+    "name": "Caffe Latte",
+    "image": "img/Caffe_Ç_Latte_.jpg-removebg-preview.png",
+    "category": "Coffee",
+    "price": 43,
+    "type": "Latte",
+    "size": "Medium",
+    "description": "Smooth espresso combined with steamed milk for a classic latte."
+  },
+  {
+    "id": 25,
+    "name": "ice chocolate",
+    "image": "img/ice_chocolate-removebg-preview.png",
+    "category": "ice Coffee",
+    "price": 49,
+    "type": "Chocolate",
+    "size": "Medium",
+    "description": "Cold chocolate drink that's both creamy and refreshing."
+  },
+  {
+    "id": 26,
+    "name": "Caramel Macchiato",
+    "image": "img/Caramel_Macchiato.jpg-removebg-preview.png",
+    "category": "Sweet Dessert",
+    "price": 33,
+    "type": "Caramel",
+    "size": "Large",
+    "description": "Sweet and smooth caramel macchiato with a rich espresso base."
+  },
+  {
+    "id": 27,
+    "name": "Turkey Cheese Croissant",
+    "image": "img/Turkey_Cheese_Croissant.jpg-removebg-preview.png",
+    "category": "Croissant",
+    "price": 40,
+    "type": "Cheese",
+    "size": "Large",
+    "description": "Savory croissant stuffed with turkey and melted cheese."
+  },
+  {
+    "id": 28,
+    "name": "Plain Croissant",
+    "image": "img/Plain_Croissant.jpg-removebg-preview.png",
+    "category": "Croissant",
+    "price": 88,
+    "type": "Plain",
+    "size": "Medium",
+    "description": "Classic French croissant with a buttery, flaky texture."
+  },
+  {
+    "id": 29,
+    "name": "Cheese Croissant",
+    "image": "img/Cheese_Croissant.jpg-removebg-preview.png",
+    "category": "Croissant",
+    "price": 40,
+    "type": "Cheese",
+    "size": "Large",
+    "description": "Golden croissant filled with creamy, melted cheese."
+  },
+  {
+    "id": 30,
+    "name": "Multicereal Croissant",
+    "image": "img/Multicereal_Croissant_01.jpg-removebg-preview.png",
+    "category": "Croissant",
+    "price": 40,
+    "type": "Plain",
+    "size": "Large",
+    "description": "Healthy croissant made with multigrain cereal for extra fiber."
+  },
+  {
+    "id": 31,
+    "name": "Matsh",
+    "image": "img/Matsh.png",
+    "category": "Coffee",
+    "price": 25,
+    "type": "Matcha",
+    "size": "Large",
+    "description": "Matcha-based drink with earthy flavor and energizing effect."
+  },
+  {
+    "id": 32,
+    "name": "Hot Chocolate",
+    "image": "img/Signature_Hot_Chocolate-removebg-preview.png",
+    "category": "Coffee",
+    "price": 35,
+    "type": "Chocolate",
+    "size": "Medium",
+    "description": "Warm and rich hot chocolate made with real cocoa."
+  },
+  {
+    "id": 33,
+    "name": "Blueberry",
+    "image": "img/blueberry__2_-removebg-preview.png",
+    "category": "ice Coffee",
+    "price": 37,
+    "type": "Berry",
+    "size": "Medium",
+    "description": "Sweet iced drink bursting with fresh blueberry flavor."
+  },
+  {
+    "id": 34,
+    "name": "Chocolate Croissent",
+    "image": "img/Chocolate Croissent.png",
+    "category": "Croissant",
+    "price": 42,
+    "type": "Chocolate",
+    "size": "Medium",
+    "description": "Buttery croissant filled with rich and smooth chocolate."
+  },
+  {
+    "id": 35,
+    "name": "Pink Berry Croissent",
+    "image": "img/Pink Berry Croissent.png",
+    "category": "Croissant",
+    "price": 37,
+    "type": "Berry",
+    "size": "Large",
+    "description": "Delicate croissant with pink berry filling for a fruity twist."
+  },
+  {
+    "id": 36,
+    "name": "Chocolate Chio Croissent",
+    "image": "img/Chocolate Chio Croissent.png",
+    "category": "Croissant",
+    "price": 44,
+    "type": "Chocolate",
+    "size": "Large",
+    "description": "Flaky croissant filled with chocolate chips and cocoa flavor."
+  },
+  {
+    "id": 37,
+    "name": "Pistachio Croissent",
+    "image": "img/Pistachio Croissent.png",
+    "category": "Croissant",
+    "price": 38,
+    "type": "Pistachio",
+    "size": "Medium",
+    "description": "Nutty croissant with a creamy pistachio filling."
+  },
+  {
+    "id": 38,
+    "name": "Pain Au Chocolate Croissent",
+    "image": "img/Pain Au Chocolate Croissent.png",
+    "category": "Croissant",
+    "price": 76,
+    "type": "Chocolate",
+    "size": "Large",
+    "description": "Classic pain au chocolat made with layers of buttery dough and chocolate."
+  },
+  {
+    "id": 39,
+    "name": "Iced Blonde Vanilla LatteDelish",
+    "image": "img/Iced_Blonde_Vanilla_LatteDelish-removebg-preview.png",
+    "category": "ice Coffee",
+    "price": 66,
+    "type": "Chocolate",
+    "size": "Large",
+    "description": "Iced vanilla latte with a smooth chocolatey finish."
+  },
+  {
+    "id": 40,
+    "name": "Ice Matsha",
+    "image": "img/ice_matsha6-removebg-preview.png",
+    "category": "ice Coffee",
+    "price": 34,
+    "type": "Matcha",
+    "size": "Small",
+    "description": "Cold matcha drink with a bold, earthy taste."
+  },
+  {
+    "id": 41,
+    "name": "Kola",
+    "image": "img/Kola-removebg-preview.png",
+    "category": "ice Coffee",
+    "price": 99,
+    "type": "Plain",
+    "size": "Small",
+    "description": "Classic fizzy cola drink with a refreshing kick."
+  }
+
+]

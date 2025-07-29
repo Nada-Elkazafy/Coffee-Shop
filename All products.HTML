@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="All products.css">
+</head>
+<body>
+    <div class="nav">
+        <img class="logo" src="img/654177-84.png">
+        <h2 class="tlogo">Mokaya</h2>
+        <ul class="list">
+            <li href="index.HTML">Home</a>
+            <li href="#">About</a>
+            <li href="All products.HTML">Products</a>
+            <li href="#">Content</a>
+
+            </ul>
+         <div class="rnav">
+           <div class="search-wrapper">
+           <img class="logo2" src="img/coffee-bean_3188330.png">
+           <input type="text" id="searchInput" placeholder="Search products..." style="display: none;" />
+          </div>
+            <a href="Card.HTML"><img class="logo3"  src="img/cart_9581600.png"></a>
+        </div>
+       </div>
+      
+       <div class="mainArea">
+        
+        <div class="sidebar">
+          
+    <h2>Filters</h2>
+
+     <div class="filter-section">
+    <h3>Category</h3>
+    <ul>
+      <li data-category="Coffee">Coffee</li>
+      <li data-category="ice Coffee">Iced Coffee</li>
+      <li data-category="Croissant">Croissant</li>
+      <li data-category="Sweet Dessert">Sweet Dessert</li>
+    </ul>
+  </div>
+
+  <div class="filter-section">
+    <h3>Price</h3>
+    <input type="range" id="priceRange" min="0" max="100" value="100">
+    <p>Max Price: $<span id="priceValue">100</span></p>
+  </div>
+  <div class="filter-section">
+    <h3>Flavor</h3>
+    <div class="tastes">
+      <button data-taste="Chocolate">Chocolate</button>
+      <button data-taste="Berry">Berry</button>
+      <button data-taste=""="Lemon Loaf">Lemon Loaf</button>
+      <button data-taste="Caramel">Caramel</button>
+      <button data-taste="Honey">Honey</button>
+      <button data-taste="Cheese">Cheese</button>
+      <button data-taste="Matcha">Matcha</button>
+      <button data-taste="Espresso">Espresso</button>
+      <button data-taste="Tea">Tea</button>
+      <button data-taste="Mocha">Mocha</button>
+      <button data-taste="Americano">Americano</button>
+      <button data-taste="Shaken">Shaken</button>
+      <button data-taste="Latte">Latte</button>
+      <button data-taste="Plain">Plain</button>
+    </div>
+  </div>
+
+  <div class="filter-section">
+    <h3>Product Size</h3>
+    <ul>
+      <li data-Size="Small">Small</li>
+      <li data-Size="Formal">Medium</li>
+      <li data-Size="Large">Large</li>
+      
+    </ul>
+  </div>
+
+  <button id="applyFilter">Apply Filter</button>
+  </div>
+
+  <div class="products-area">
+  <h2 id="products-title">All Products</h2>
+  <div id="products"></div>
+</div>
+  
+  
+</div>
+<div id="pagination"></div> 
+<div class="area5">
+  <div class="bottonlogo">
+    <h3>Mokaya</h3>
+    <p>
+      All Content on this website is protected by copyright and may not be used without permission from mokaya
+    </p>
+  </div>
+  <div class="list1">
+    <h3>COMPANY</h3>
+    <ul>
+      <li>About</li>
+      <li>Features</li>
+      <li>Works</li>
+      <li>cateer</li>
+    </ul>
+  </div>
+  <div class="list1">
+    <h3>HELP</h3>
+    <ul>
+      <li>Customer support</li>
+      <li>Delivery Details</li>
+      <li>Terms & Conditions</li>
+      <li>Privacy policy</li>
+    </ul>
+  </div>
+  <div class="list1">
+    <h3>FAQ</h3>
+    <ul>
+      <li>Account</li>
+      <li>Manage Deliveres</li>
+      <li>Orders</li>
+      <li>Payments</li>
+    </ul>
+  </div>
+  <div class="list1">
+    <h3>RESOURCES</h3>
+    <ul>
+      <li><a href="#">Free eBooks</a></li>
+      <li>Development Turorial</li>
+      <li>How to-Biog</li>
+      <li>Youtube playlist</li>
+    </ul>
+  </div>
+
+</div>
+
+<script src="All products .js"></script>
+</body>
+</html>
